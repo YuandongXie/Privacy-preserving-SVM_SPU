@@ -4,3 +4,4 @@ The MulticlassSVM here is achieved by applying 'ovr',i.e. 'one VS rest' techniqu
 
 
 The PSVM_training is training SVM with UCI dataset https://archive.ics.uci.edu/dataset/193/cardiotocography, and notice the Secretflow must be updated to newest version to make it run normally.
+The system runs under two servers model.
